@@ -17,7 +17,7 @@
   - 전체 레이어에 걸쳐 Grad-CAM 이용
   
 ### 제안하는 기법 구조
-![스크린샷, 2020-06-01 18-08-55](https://user-images.githubusercontent.com/25657945/83394164-0efd7380-a433-11ea-82db-1f4fce73c48d.png)
+
 ![스크린샷, 2020-06-01 18-09-30](https://user-images.githubusercontent.com/25657945/83394167-0f960a00-a433-11ea-9848-7f72209d63f9.png)
 
 ###
